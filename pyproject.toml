@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "beautifulsoup4>=4.15.0",
     "folium>=0.20.0",
+    "ipykernel>=7.3.0",
     "matplotlib>=3.11.1",
     "missingno>=0.5.2",
     "numpy>=2.5.1",
@@ -16,6 +17,7 @@ dependencies = [
     "requests>=2.34.2",
     "scikit-learn>=1.9.0",
     "selenium>=4.46.0",
+    "tqdm>=4.70.0",
     "webdriver-manager>=4.1.2",
     "xmltodict>=1.0.4",
 ]
